@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Network", "Play.Network\Play.Network.csproj", "{179C4ED2-6C32-4596-947B-B66510AF7C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Network.Tests", "Play.Network.Tests\Play.Network.Tests.csproj", "{BA4D55FA-021F-4213-AED3-761853C4A2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.App.Console", "Play.App.Console\Play.App.Console.csproj", "{79B60B72-B047-4D01-97D7-FB00EAEAFD80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4D55FA-021F-4213-AED3-761853C4A2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4D55FA-021F-4213-AED3-761853C4A2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4D55FA-021F-4213-AED3-761853C4A2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4D55FA-021F-4213-AED3-761853C4A2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B60B72-B047-4D01-97D7-FB00EAEAFD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B60B72-B047-4D01-97D7-FB00EAEAFD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B60B72-B047-4D01-97D7-FB00EAEAFD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B60B72-B047-4D01-97D7-FB00EAEAFD80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
