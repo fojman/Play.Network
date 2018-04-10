@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Network", "Play.Network\Play.Network.csproj", "{179C4ED2-6C32-4596-947B-B66510AF7C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179C4ED2-6C32-4596-947B-B66510AF7C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C06918-8EB7-4738-B0BB-A490EFC36136}
+	EndGlobalSection
+EndGlobal
